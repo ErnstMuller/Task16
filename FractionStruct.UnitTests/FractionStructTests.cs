@@ -2,6 +2,7 @@ using NUnit.Framework;
 using FractionStruct;
 
 
+
 namespace FractionStruct.UnitTests
 {
     [TestFixture]

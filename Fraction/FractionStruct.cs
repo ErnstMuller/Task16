@@ -2,6 +2,7 @@
 
 
 
+
 namespace FractionStruct
 {
     public struct Fraction
