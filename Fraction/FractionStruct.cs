@@ -1,5 +1,7 @@
 ﻿using System;
 
+
+
 namespace FractionStruct
 {
     public struct Fraction
